@@ -1,7 +1,7 @@
 # DiabeNet: Diabetes Prediction using an Artificial Neural Network
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Neural Network](https://img.shields.io/badge/Neural_Network-8A2BE2-blueviolet)](https://en.wikipedia.org/wiki/Neural_network)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?logo=Keras&logoColor=white)](https://keras.io/)
 
@@ -19,9 +19,6 @@ This repository includes the full Python script for data preprocessing, model tr
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Model Performance](#model-performance)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -117,4 +114,9 @@ python artificial_neural_network_diabetes_dataset_.py
 ```
 ---
 # 📧 Contact
-Ayush Shrivas - @www.linkedin.com/in/ayush-shrivas-190475299 - ayushshrivas018@gmail.com
+
+
+**Ayush Shrivas**
+
+-   **GitHub**: [@Ayush-Shrivas](https://github.com/Ayush-Shrivas)
+-   **LinkedIn**: [Ayush Shrivas](https://www.linkedin.com/in/ayush-shrivas-190475299/)
