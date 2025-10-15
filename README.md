@@ -114,3 +114,7 @@ To run the complete pipeline (data loading, training, and evaluation), execute t
 
 ```sh
 python artificial_neural_network_diabetes_dataset_.py
+```
+---
+# 📧 Contact
+Ayush Shrivas - @www.linkedin.com/in/ayush-shrivas-190475299 - ayushshrivas018@gmail.com
