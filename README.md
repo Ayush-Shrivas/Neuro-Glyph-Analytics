@@ -1,4 +1,4 @@
-# DiabeNet: Diabetes Prediction using an Artificial Neural Network
+#Neuro-Glyph Analytics: Diabetes Prediction using an Artificial Neural Network
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Neural Network](https://img.shields.io/badge/Neural_Network-8A2BE2-blueviolet)](https://en.wikipedia.org/wiki/Neural_network)
